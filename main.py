@@ -67,9 +67,6 @@ class RedeRestaurante:
         for i in self.__restaurantes_rede:
             i.mostrar_cardapio()
 
-# rede contem rest
-# class rede(rest)
-
 
 class Restaurante:
 
